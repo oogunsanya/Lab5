@@ -14,23 +14,29 @@ body{
 
 
 header{
-	background-color: white;
-	color: green;
+	background-color: red;
+	color: blue;
 	text-allign: center;
 }
 
 .jup{
-    background-color:green;
+    background-color: rgb(120, 182, 202);
 }
 
 .ura{
-    background-color:red;
+    background-color: lightgoldenrodyellow;
 }
 
 .mer{
-    background-color:blue;
+    background-color: lightpink;
 }
 
 .ear{
-    background-color:grey;
+    background-color: lightgrey;
+}
+
+
+#planet_names{
+    background-color: white;
+    font-family: 'VT323', monospace;
 }
