@@ -1,42 +1,59 @@
-div{
-	background-color: red;
-	margin: 5% 20% 7% 20%;
-	padding: 3% 3% 3% 3%;
-}
-
-
 body{
-	margin: 0; 
-	background-image:url(images/backgroun.jpg); 
-	background-size: 1500px 843px;
-	background-repeat: no-repeat;
+	background-image:url(images/background.jpg); 
+	background-size: cover;
+	font-family: 'Apple Chancery', sans-serif;
+	text-align: center;
+  margin: 1% 10%;
 }
 
+h1{
+	background color: blue; 
+  font-family: 'Courier New', cursive;
+  text-align: center;
+}
 
-header{
-	background-color: red;
-	color: blue;
-	text-allign: center;
+th
+{
+  font-family:cursive;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+}
+td
+{
+  font-family:cursive;
+  font-size: 15px;
+  color: white;
+  text-align: center;
 }
 
 .jup{
-    background-color: rgb(120, 182, 202);
+    background-color:turquoise;
+    text-align: center;
 }
 
 .ura{
-    background-color: lightgoldenrodyellow;
+    background-color:darkgrey;
+    text-align: center;
 }
 
 .mer{
-    background-color: lightpink;
+    background-color:lightblue;
+    text-align: center;
 }
 
 .ear{
-    background-color: lightgrey;
+    background-color:lavender;
+    text-align: center;
 }
 
-
-#planet_names{
-    background-color: white;
-    font-family: 'VT323', monospace;
+.pla{
+    text-align: left;
+    font-family: 'Slabo 27px', serif;
 }
+
+.head{
+    background-color:brown;
+
+
+
