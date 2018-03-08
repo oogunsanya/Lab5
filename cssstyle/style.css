@@ -1,10 +1,14 @@
 body{
-	background-image:url(images/background.jpg); 
+	 margin:0;
 	background-size: cover;
-	font-family: 'Apple Chancery', sans-serif;
-	text-align: center;
-  margin: 1% 10%;
+	background-repeat:no-repeat;
+	background-image:url(images/background.jpg); 
 }
+
+table{
+	margin: 1% 10%;
+	font-family: 'Apple Chancery', sans-serif;
+	}
 
 h1{
 
@@ -56,7 +60,7 @@ footer{
 
 .pla{
     text-align: left;
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Slabo 40px', serif;
 }
 
 .head{
